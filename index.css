@@ -1,60 +1,41 @@
-.heading {
-    font-size: 35px;
-    font-weight: bolder;
-    text-transform: uppercase;
-}
-
-.intro {
-    background-color: pink;
-    color: white;
-    padding-left: 16px;
-    padding-bottom: 8px;
-    margin-bottom: 4px;
+.nama {
+    color: #4059ad;
 }
 
 body {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #ee7b30;
+    text-align: center;
 }
 
-.prof {
-    font-size: 20px;
-    font-weight: lighter;
+.description {
+    color: #f0c808;
 }
 
-.contacinfo {
-    font-size: 15px;
-    padding-left: 16px;
-    padding-top: 6px;
-    padding-bottom: 6px;
-    background-color: blue;
+.manga_title {
+    color: brown;
 }
 
-.subheading {
-    font-size: 20px;
-    font-weight: bolder;
-    color: #2F5A78;
-    text-transform: uppercase;
-    padding-left: 16px;
+.manga_name {
+    color: green;
+    list-style: none;
 }
 
-.icon {
-    color: #2F5A78;
+.manga_title_genre_rating {
+    color: purple;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-.date {
-    font-size: 16px;
-    color: #2F5A78;
-    font-weight: bold;
+.anime_recomendations {
+    color: darksalmon;
 }
 
-.social {
-    padding-left: 16px;
+.animation_names {
+    list-style: none;
 }
 
-.skilss ul li {
-    display: flex;
-    margin-bottom: 10px;
-    justify-content: space-between;
-    align-items: center;
-    margin-left: -15px;
+.anime_title_genre_rs {
+    color: cornsilk;
+    margin-left: auto;
+    margin-right: auto;
 }
